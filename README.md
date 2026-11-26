@@ -14,7 +14,7 @@ images are divided into training, validation, and testing datasets. The images a
 to the input size required by VGG19 and normalized before being given to the model.
 
 ## Neural Network Model
-Include the neural network model diagram.
+<img width="770" height="697" alt="image" src="https://github.com/user-attachments/assets/14d681f7-ca59-4070-b8a4-a174e751e7bd" />
 
 ## DESIGN STEPS
 ### STEP 1: 
